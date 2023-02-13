@@ -1,4 +1,4 @@
-# The `git` **branch** Command:
+# The `git branch` command
 
 A branch represents an independent line of development. Branches serve as an abstraction for the **edit/stage/commit** process. 
 

@@ -1,4 +1,4 @@
-# <u>**Git Config commands**</u>
+# The `git config` command
 
 ## **git config --local**
 

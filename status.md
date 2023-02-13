@@ -1,4 +1,4 @@
-# Git Status
+# The `git status` command
 
 Git status is a command used in the Git version control system to check the status of a Git repository. It helps to view the current changes that have been made in the repository and have not yet been committed to the repository.
 

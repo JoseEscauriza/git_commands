@@ -1,5 +1,7 @@
-### INSPECT & COMPARE
-*Examining logs, diﬀs and object information*
+# INSPECTING & COMPARING with `git`
+
+## Examining logs, diﬀs and object information:
+
 
 **git log**
 

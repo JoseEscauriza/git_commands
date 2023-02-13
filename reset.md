@@ -1,3 +1,9 @@
-# Command $git reset
+# The `git reset` command
 
-This is the beautiful command that allow s you to reset the changes made
+This is the beautiful command that allows you to reset the changes made.
+
+## Syntax
+
+```bash
+$ git reset
+```
