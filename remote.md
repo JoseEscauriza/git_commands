@@ -5,7 +5,7 @@ Manage the set of repositories ("remotes") whose branches you track.
 # OPTIONS
 -v
 --verbose
-Be a little more verbose and show remote url after name. F
+Be a little more verbose and show remote url after name. 
 
 # COMMANDS
 
@@ -26,7 +26,6 @@ By default, only tags on fetched branches are imported (see git-fetch[1]).
 ## `rename`
 
 Rename the remote named <old> to <new>. All remote-tracking branches and configuration settings for the remote are updated.
-
 
 ## `remove`
 
