@@ -1,5 +1,8 @@
 # push-commands
+
+
 git push
+---
 The "push" command is used to publish new local commits on a remote server.
 
 The source (i.e. which branch the data should be uploaded from) is always the currently checked out HEAD branch.
@@ -8,7 +11,9 @@ The target (i.e. which branch the data should be uploaded to) can be specified i
 
 Note that the "push" command can also be used to delete a remote branch.
 
-#Important Options
+## Important Options
+---
+
 --all
 Pushes all local branches.
 
@@ -22,7 +27,8 @@ Deletes the specified remote branch.
 Creates an upstream tracking connection and is especially useful when publishing a local branch on a remote for the first time.
 
 
-#Usage Examples
+## Usage Examples
+---
 Before using "git push", make sure the correct local branch is checked out. Then, to perform the push, simply specify which remote branch you want to push to:
 
 git checkout develop
